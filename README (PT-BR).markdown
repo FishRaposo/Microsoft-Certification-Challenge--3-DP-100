@@ -61,12 +61,6 @@ temperature,sales
 - **Implantação em Tempo Real**: Usar o Azure ML para implantar o modelo como um endpoint para previsões em tempo real.
 - **Coleta de Dados**: Substituir dados sintéticos por dados reais de vendas para maior precisão.
 
-## Capturas de Tela
-*(Placeholder: Inclua capturas de tela no seu repositório GitHub)*
-- **Interface do MLflow**: Captura da interface do MLflow mostrando execuções, métricas e parâmetros registrados.
-- **Gráfico de Previsão**: Gráfico de dispersão de temperatura vs. vendas com a linha de regressão.
-- **Diagrama do Pipeline**: Diagrama do pipeline do scikit-learn (escalonador → regressor).
-
 ## Tecnologias Utilizadas
 - Python, pandas, numpy
 - scikit-learn (LinearRegression, Pipeline, StandardScaler)
